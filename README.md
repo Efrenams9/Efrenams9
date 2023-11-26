@@ -1,5 +1,5 @@
 ### Hi friend! 👋
-Like you can show my name is Efren. I´m a programator that studies in Soy Henry, an amazing bootcamp. Nowadays i am improving my skills about Javascript, Node and BDD. I´m funny to discover this tech World.
+Like you can watch my name is Efren. I´m a programator that studies in Soy Henry, an amazing bootcamp. Nowadays i am improving my skills about Javascript, Node and BDD. I´m funny to discover this tech World.
 <!--
 **Efrenams9/Efrenams9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
